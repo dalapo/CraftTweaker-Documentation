@@ -161,6 +161,7 @@ pages:
           - Part Builder: 'Mods/ContentTweaker/Materials/Parts/Part_Builder.md'
           - PartType: 'Mods/ContentTweaker/Materials/Parts/PartType.md'
           - PartDataPiece: 'Mods/ContentTweaker/Materials/Parts/PartDataPiece.md'
+    - Factory Tech: 'Mods/FactoryTech/Machines.md'
     - ImmersivePetroleum:
       - Immersive Petroleum: 'Mods/Immersive_Petroleum/Immersive_Petroleum.md'
       - Distillation: 'Mods/Immersive_Petroleum/Distillation.md'
